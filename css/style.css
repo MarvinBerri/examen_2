@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+#services{
+	text-align: center;
+}
+#services h1{
+	font-size: 29px;
+     padding: 60px;
+}
+#services .la-mitten{
+	font-size: 64px;
+}
+#services .la-apple-alt{
+	font-size: 64px;
+}
+#services .la-bone{
+	font-size: 64px;
+}
+#services .la-cookie{
+	font-size: 64px;
+}
+#services p{
+	padding-bottom: 30px;
+}
+
+#counter{
+	background-color: #ECB87D;
+}
+#counter h2{
+	padding-top: 40px;
+	text-align: center;
+}
+#counter p{
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+footer{
+	background-image:url("../img/footer-bg.jpg");
+	background-color:#000001;
+		color: antiquewhite;
+	padding: 64px
+}
+footer .la-facebook{
+	font-size:64px;
+	color: antiquewhite;
+}
+footer .la-instagram{
+	font-size:64px;
+	color: antiquewhite;
+}
+footer .la-whatsapp{
+	font-size:64px;
+	color: antiquewhite;
+}
